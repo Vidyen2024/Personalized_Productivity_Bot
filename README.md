@@ -1,5 +1,4 @@
-# Personalized_Productivity_Bot
-A simple rule-based chatbot offering productivity tips and motivational advice.
+
 # Personalized Productivity Bot 🚀
 
 This project is a simple rule-based chatbot built with Python. It provides productivity tips, motivational quotes, and time management techniques.
